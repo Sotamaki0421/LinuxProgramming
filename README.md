@@ -1,1 +1,2 @@
 # FutusunoLinuxProgramming
+普通のLinuxプログラミングのコードを書いていきます。
